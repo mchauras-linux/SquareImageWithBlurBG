@@ -4,7 +4,7 @@ import os
 
 class ImageLib:
 
-    BLUR_LEVEL  = 10
+    BLUR_LEVEL  = 100
     EDGE_REMOVAL_FACTOR = 0.08
 
     def __init__(self, path):
